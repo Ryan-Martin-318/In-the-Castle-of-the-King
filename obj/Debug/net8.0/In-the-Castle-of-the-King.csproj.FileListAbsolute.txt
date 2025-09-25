@@ -1,0 +1,15 @@
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\bin\Debug\net8.0\In-the-Castle-of-the-King.exe
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\bin\Debug\net8.0\In-the-Castle-of-the-King.deps.json
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\bin\Debug\net8.0\In-the-Castle-of-the-King.runtimeconfig.json
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\bin\Debug\net8.0\In-the-Castle-of-the-King.dll
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\bin\Debug\net8.0\In-the-Castle-of-the-King.pdb
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\obj\Debug\net8.0\In-the-Castle-of-the-King.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\obj\Debug\net8.0\In-the-Castle-of-the-King.AssemblyInfoInputs.cache
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\obj\Debug\net8.0\In-the-Castle-of-the-King.AssemblyInfo.cs
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\obj\Debug\net8.0\In-the-Castle-of-the-King.csproj.CoreCompileInputs.cache
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\obj\Debug\net8.0\In-the-Castle-of-the-King.sourcelink.json
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\obj\Debug\net8.0\In-the-Castle-of-the-King.dll
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\obj\Debug\net8.0\refint\In-the-Castle-of-the-King.dll
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\obj\Debug\net8.0\In-the-Castle-of-the-King.pdb
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\obj\Debug\net8.0\In-the-Castle-of-the-King.genruntimeconfig.cache
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS-Intro_to_Program\In-the-Castle-of-the-King\obj\Debug\net8.0\ref\In-the-Castle-of-the-King.dll
